@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Ilya 👋
 
-<!--
-**Ilya-Zakharenko/Ilya-Zakharenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Machine Learning Engineer**
 
-Here are some ideas to get you started:
+I build and implement end-to-end Machine Learning and Deep Learning solutions — from classical models to modern LLMs and production systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Main Repositories
+
+| Direction                          | Repository |
+|------------------------------------|----------|
+| **Classical Machine Learning**     | [Classical-ML-Projects](https://github.com/Ilya-Zakharenko/Classical-ML-Projects) |
+| **Deep Learning**                  | [DeepLearning-Projects](https://github.com/Ilya-Zakharenko/DeepLearning-Projects) |
+| **Recommender Systems**            | [Recommender-Systems-Projects](https://github.com/Ilya-Zakharenko/Recommender-Systems-Projects) |
+| **Time Series & Forecasting**      | [Time-Series-Projects](https://github.com/Ilya-Zakharenko/Time-Series-Projects) |
+| **Computer Vision**                | [Computer-Vision-Projects](https://github.com/Ilya-Zakharenko/Computer-Vision-Projects) |
+| **Reinforcement Learning**         | [Reinforcement-Learning-Projects](https://github.com/Ilya-Zakharenko/Reinforcement-Learning-Projects) |
+| **Large Language Models (LLM)**    | [LLM-Projects](https://github.com/Ilya-Zakharenko/LLM-Projects) |
+| **MLOps & Production**             | [MLOps-Projects](https://github.com/Ilya-Zakharenko/MLOps-Projects) |
+| **Applied Machine Learning**       | [Applied-ML-Projects](https://github.com/Ilya-Zakharenko/Applied-ML-Projects) |
+
+---
+
+### 🔥 Key Competencies
+
+- **Machine Learning**: Tabular models, Gradient Boosting, Recommender Systems, Time Series
+- **Deep Learning**: Computer Vision, NLP, LLM applications
+- **MLOps**: Model monitoring (Prometheus + Grafana), model serving, experiment tracking
+- **Tools**: Python, PyTorch, scikit-learn, XGBoost, CatBoost, Docker, Git
+
+---
+
+### 📌 Featured Projects
+
+
+---
+
+### 📫 Get in Touch
+
+- **Telegram**: [@IZakharenko](https://t.me/IZakharenko)
+- **Email**: ilyazaharenko1994@gmail.com
+- **LinkedIn**: [linkedin.com/in/ilyazakharenko](https://linkedin.com/in/ilyazakharenko)
+
+---
+
+*Last updated: April 2026*
