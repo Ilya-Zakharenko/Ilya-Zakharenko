@@ -16,6 +16,7 @@ I build and implement end-to-end Machine Learning and Deep Learning solutions â€
 | **Time Series & Forecasting**      | [Time-Series-Projects](https://github.com/Ilya-Zakharenko/Time-Series-Projects) |
 | **Computer Vision**                | [Computer-Vision-Projects](https://github.com/Ilya-Zakharenko/Computer-Vision-Projects) |
 | **Reinforcement Learning**         | [Reinforcement-Learning-Projects](https://github.com/Ilya-Zakharenko/Reinforcement-Learning-Projects) |
+| **Generative AI**                  | [Generative-AI-Projects](https://github.com/Ilya-Zakharenko/Generative-AI-Projects) |
 | **Large Language Models (LLM)**    | [LLM-Projects](https://github.com/Ilya-Zakharenko/LLM-Projects) |
 | **MLOps & Production**             | [MLOps-Projects](https://github.com/Ilya-Zakharenko/MLOps-Projects) |
 | **Applied Machine Learning**       | [Applied-ML-Projects](https://github.com/Ilya-Zakharenko/Applied-ML-Projects) |
